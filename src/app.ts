@@ -12,7 +12,7 @@ app.use(express.json());
 initDB();
 
 app.get('/', (req: Request, res: Response)=>{
-  res.send("API is running successfully")
+  res.send("Vehicle Renter Management System API is running successfully")
 })
 
 app.use('/api/v1/auth', authRoute);
