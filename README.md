@@ -1,7 +1,7 @@
 # 🚗 Vehicle Rental Management System
 
 🔗 **Live Demo**  
-👉 https://crud-assignment-02.vercel.app
+👉 https://crud-assignment-02.vercel.app/
 
 
 ## 📌 Project Overview
